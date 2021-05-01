@@ -1,0 +1,14 @@
+.footer {
+	background-color: black
+}
+
+.footer h2 {
+	text-align: center;
+	padding :10px;
+}
+
+.footer a {
+	color: rgb(200, 200, 200);
+	font-size: 40px;
+}
+

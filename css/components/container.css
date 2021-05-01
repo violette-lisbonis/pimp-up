@@ -1,0 +1,15 @@
+.container {
+	width: 800px;
+	margin: 40px auto;
+	color: black;
+	background-color: rgb(225, 225, 225);
+	padding: 10px;
+}
+
+#container-banner {
+	background-color: transparent;
+	border: none;
+	width: 700px;
+	margin: 10px;
+}
+
